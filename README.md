@@ -2,7 +2,8 @@
 
 <div align="center">
 
-![HealthGuard AI Banner](https://via.placeholder.com/800x200/0066cc/ffffff?text=HealthGuard+AI)
+![HealthGuard AI Banner](<img width="1609" height="912" alt="Screenshot 2025-08-15 003115" src="https://github.com/user-attachments/assets/c68fad27-79ee-4aa1-b369-912c2b11077e" />
+)
 
 ### 🛡️ *The Smart Chrome Extension That Protects You From Medical Misinformation* 🛡️
 
