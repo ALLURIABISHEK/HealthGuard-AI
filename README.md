@@ -2,12 +2,20 @@
 
 <div align="center">
 
-![HealthGuard AI Banner](https://via.placeholder.com/800x200/0066cc/ffffff?text=HealthGuard+AI)
+```
+██╗  ██╗███████╗ █████╗ ██╗  ████████╗██╗  ██╗ ██████╗ ██╗   ██╗ █████╗ ██████╗ ██████╗ 
+██║  ██║██╔════╝██╔══██╗██║  ╚══██╔══╝██║  ██║██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔══██╗
+███████║█████╗  ███████║██║     ██║   ███████║██║  ███╗██║   ██║███████║██████╔╝██║  ██║
+██╔══██║██╔══╝  ██╔══██║██║     ██║   ██╔══██║██║   ██║██║   ██║██╔══██║██╔══██╗██║  ██║
+██║  ██║███████╗██║  ██║███████╗██║   ██║  ██║╚██████╔╝╚██████╔╝██║  ██║██║  ██║██████╔╝
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ 
+                                      🤖 A I 🤖                                            
+```
 
 ### 🛡️ *The Smart Chrome Extension That Protects You From Medical Misinformation* 🛡️
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Powered+by+Google+Gemini+AI;Real-time+Health+Fact+Checking;72%25+of+people+search+health+info+online;We+protect+them+from+misinformation!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Powered+by+Google+Gemini+AI;Real-time+Health+Fact+Checking;72%25+of+people+search+health+info+online;We+protect+them+from+misinformation!" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -47,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF4444&center=true&vCenter=true&width=600&lines=Misinformation+spreads+6x+faster+than+truth;Every+second+counts+in+health+decisions;Your+life+depends+on+accurate+information" alt="Crisis Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF4444&center=true&vCenter=true&width=600&lines=Misinformation+spreads+6x+faster+than+truth;Every+second+counts+in+health+decisions;Your+life+depends+on+accurate+information" alt="Crisis Stats" />
 </div>
 
 ## 🌟 What Makes HealthGuard AI Revolutionary?
@@ -55,22 +63,46 @@
 <table align="center">
 <tr>
 <td width="25%" align="center">
-<img src="https://via.placeholder.com/100x100/4CAF50/ffffff?text=🎯" alt="Detection" />
+
+```
+  🎯
+ ████
+ ████  
+ ████
+```
 <br><strong>INSTANT DETECTION</strong>
 <br>Scans entire pages in <2 seconds
 </td>
 <td width="25%" align="center">
-<img src="https://via.placeholder.com/100x100/2196F3/ffffff?text=🤖" alt="AI" />
+
+```
+  🤖
+ ████
+ ████  
+ ████
+```
 <br><strong>GEMINI AI POWER</strong>
 <br>94.2% accuracy rate
 </td>
 <td width="25%" align="center">
-<img src="https://via.placeholder.com/100x100/FF9800/ffffff?text=🎨" alt="Visual" />
+
+```
+  🎨
+ ████
+ ████  
+ ████
+```
 <br><strong>VISUAL FEEDBACK</strong>
 <br>Color-coded claim highlighting
 </td>
 <td width="25%" align="center">
-<img src="https://via.placeholder.com/100x100/9C27B0/ffffff?text=📊" alt="Analytics" />
+
+```
+  📊
+ ████
+ ████  
+ ████
+```
 <br><strong>REAL-TIME ANALYTICS</strong>
 <br>Live health score tracking
 </td>
@@ -540,19 +572,43 @@ Text Extraction → Claim Detection → Fact Check → Confidence Score
 <table>
 <tr>
 <td align="center">
-<img src="https://via.placeholder.com/80x80/0066cc/ffffff?text=WHO" alt="WHO" />
+
+```
+ 🏥 WHO 🏥
+  ╔═══════╗
+  ║ ⚕️ 🌍 ⚕️ ║
+  ╚═══════╝
+```
 <br><strong>World Health Organization</strong>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/80x80/4CAF50/ffffff?text=CDC" alt="CDC" />
+
+```
+ 🏥 CDC 🏥
+  ╔═══════╗
+  ║ 🛡️ 🇺🇸 🛡️ ║
+  ╚═══════╝
+```
 <br><strong>Centers for Disease Control</strong>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/80x80/2196F3/ffffff?text=NIH" alt="NIH" />
+
+```
+ 🏥 NIH 🏥
+  ╔═══════╗
+  ║ 🔬 🧬 🔬 ║
+  ╚═══════╝
+```
 <br><strong>National Institutes of Health</strong>
 </td>
 <td align="center">
-<img src="https://via.placeholder.com/80x80/FF9800/ffffff?text=Mayo" alt="Mayo" />
+
+```
+🏥 MAYO 🏥
+  ╔═══════╗
+  ║ 💊 ⚕️ 💊 ║
+  ╚═══════╝
+```
 <br><strong>Mayo Clinic</strong>
 </td>
 </tr>
@@ -573,7 +629,15 @@ Original Claim → Cross-Reference → Authority Sources → Confidence Score �
 
 ### 🌟 **Join Our Mission to Combat Health Misinformation!**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Every+contribution+saves+lives;Your+code+can+protect+millions;Together+we+fight+misinformation!" alt="Mission Statement" />
+```
+╔══════════════════════════════════════════════════════════╗
+║  🚀 EVERY CONTRIBUTION SAVES LIVES! 🚀                  ║
+║  ═══════════════════════════════════                    ║
+║  💻 Your code can protect millions                       ║
+║  🌍 Together we fight misinformation                     ║
+║  ❤️ Join the health revolution today!                    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
